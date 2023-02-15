@@ -1,0 +1,15 @@
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\bin\Debug\net7.0\zadanie 8.exe
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\bin\Debug\net7.0\zadanie 8.deps.json
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\bin\Debug\net7.0\zadanie 8.runtimeconfig.json
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\bin\Debug\net7.0\zadanie 8.dll
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\bin\Debug\net7.0\zadanie 8.pdb
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\obj\Debug\net7.0\zadanie 8.csproj.AssemblyReference.cache
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\obj\Debug\net7.0\zadanie 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\obj\Debug\net7.0\zadanie 8.AssemblyInfoInputs.cache
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\obj\Debug\net7.0\zadanie 8.AssemblyInfo.cs
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\obj\Debug\net7.0\zadanie 8.csproj.CoreCompileInputs.cache
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\obj\Debug\net7.0\zadanie 8.dll
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\obj\Debug\net7.0\refint\zadanie 8.dll
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\obj\Debug\net7.0\zadanie 8.pdb
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\obj\Debug\net7.0\zadanie 8.genruntimeconfig.cache
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 8\obj\Debug\net7.0\ref\zadanie 8.dll

@@ -1,0 +1,15 @@
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\bin\Debug\net7.0\zadania 6.exe
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\bin\Debug\net7.0\zadania 6.deps.json
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\bin\Debug\net7.0\zadania 6.runtimeconfig.json
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\bin\Debug\net7.0\zadania 6.dll
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\bin\Debug\net7.0\zadania 6.pdb
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\obj\Debug\net7.0\zadania 6.csproj.AssemblyReference.cache
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\obj\Debug\net7.0\zadania 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\obj\Debug\net7.0\zadania 6.AssemblyInfoInputs.cache
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\obj\Debug\net7.0\zadania 6.AssemblyInfo.cs
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\obj\Debug\net7.0\zadania 6.csproj.CoreCompileInputs.cache
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\obj\Debug\net7.0\zadania 6.dll
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\obj\Debug\net7.0\refint\zadania 6.dll
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\obj\Debug\net7.0\zadania 6.pdb
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\obj\Debug\net7.0\zadania 6.genruntimeconfig.cache
+C:\Users\yuliy\Desktop\dom.zadanie\zadania 6\obj\Debug\net7.0\ref\zadania 6.dll
